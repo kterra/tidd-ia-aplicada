@@ -25,4 +25,5 @@ Implementar uma equipe de agentes inteligentes que trabalha junto para:
 Disponível em: [https://github.com/kterra/tidd-ia-aplicada/blob/main/src/Teaching_Assistant_Crew.ipynb](https://github.com/kterra/tidd-ia-aplicada/blob/main/src/Teaching_Assistant_Crew.ipynb)
 
 ## Exemplos de resultados
-Dísponível em: [https://github.com/kterra/tidd-ia-aplicada/tree/main/docs](https://github.com/kterra/tidd-ia-aplicada/tree/main/docs)
+1. Tema:IOT - Processamento de sinal analógico com Arduino e ESP32
+   Resultado: [docs/resultado-IOT - Processamento de sinal analógico com Arduino e ESP32.md](docs/resultado-IOT - Processamento de sinal analógico com Arduino e ESP32.md)
