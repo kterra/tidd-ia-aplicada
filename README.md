@@ -22,7 +22,7 @@ Implementar uma equipe de agentes inteligentes que trabalha junto para:
 - OpenAI API
 
 ## Implementação
-Disponível em: https://github.com/kterra/tidd-ia-aplicada/blob/main/src/Teaching_Assistant_Crew.ipynb
+Disponível em: [https://github.com/kterra/tidd-ia-aplicada/blob/main/src/Teaching_Assistant_Crew.ipynb](https://github.com/kterra/tidd-ia-aplicada/blob/main/src/Teaching_Assistant_Crew.ipynb)
 
 ## Exemplos de resultados
-Dísponível em: https://github.com/kterra/tidd-ia-aplicada/tree/main/docs
+Dísponível em: [https://github.com/kterra/tidd-ia-aplicada/tree/main/docs](https://github.com/kterra/tidd-ia-aplicada/tree/main/docs)
